@@ -47,7 +47,7 @@ The repository contains the following key files:
 - **Part I - Data Cleaning, EDA, Data Preprocessing.ipynb**: Contains the initial analysis, exploratory data analysis (EDA), and preprocessing of the Stack Overflow survey data.
 - **Part II - Model Training & Evaluation - HR Assistance Job Role Classifier.ipynb**: Implements machine learning models for candidate-job role prediction.
 - **raw_data**: Contains raw and datasets obtained from [Stack Overflow Developer Survey](https://survey.stackoverflow.co/)
-- **cleaned_data**: This contained the cleaned and preprocessed files which are ready for EDA and model training.
+- **cleaned_data**: This folder contains the cleaned and preprocessed files ready for EDA and model training.
 - **models**: Contains and stores the models trained in this project.
 - **images**: Stores some important images for this file.
 

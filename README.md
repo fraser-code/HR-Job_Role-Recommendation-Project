@@ -55,7 +55,7 @@ The repository contains the following key files:
 
 The main insights and findings from this project can be found in the following article:
 
-[**A Career in Data Science & ML: Look Before You Leap**](https://medium.com/@frasermfernandes/a-career-in-data-science-ml-look-before-you-leap-95dfedc1d250)
+[**A Career in Data Science & ML: Look Before You Leap!**](https://medium.com/@frasermfernandes/a-career-in-data-science-ml-look-before-you-leap-95dfedc1d250)
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
 

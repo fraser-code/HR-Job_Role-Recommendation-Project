@@ -11,19 +11,13 @@
 
 To run this project, ensure you have Python 3 installed. The required libraries can be installed using:
 
-!pip install imbalanced-learn
-
-!pip install scikit-learn
-
-!pip install xgboost
-
-!pip install kmodes
-
-!pip install joblib
-
-!pip install ipywidgets
-
-!pip install IPython
+- !pip install imbalanced-learn
+- !pip install scikit-learn
+- !pip install xgboost
+- !pip install kmodes
+- !pip install joblib
+- !pip install ipywidgets
+- !pip install IPython
 
 Apart from this, all necessary installations come with the standard anaconda distribution.
 
